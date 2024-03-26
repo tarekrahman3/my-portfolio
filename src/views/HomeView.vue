@@ -16,12 +16,12 @@
         <table class="mx-auto mt-5 text-2xl cursor-none">
           <tbody>
             <tr class="text-left">
-              <td class="px-10 hover:bg-neutral-800"><p>Web Development</p></td>
-              <td class="px-10 hover:bg-neutral-800"><p>Scripting and Automation</p></td>
+              <td class="px-10 hover:bg-neutral-800">Web Development</td>
+              <td class="px-10 hover:bg-neutral-800">Scripting and Automation</td>
             </tr>
             <tr class="text-right">
-              <td class="px-10 hover:bg-neutral-800"><p>Mobile App Development</p></td>
-              <td class="px-10 hover:bg-neutral-800"><p>Desktop App Development</p></td>
+              <td class="px-10 hover:bg-neutral-800">Mobile App Development</td>
+              <td class="px-10 hover:bg-neutral-800">Desktop App Development</td>
             </tr>
           </tbody>
         </table>
@@ -31,7 +31,7 @@
       <div class="text-center">
         <p class="text-rose-200">{{ '{*}' }}</p>
         <p class="text-rose-200 text-xl">{{ '<contact me>' }}</p>
-        <p class="pt-5">Ready to start your next project or have questions about my services? Don't hesitate to reach out! </p>
+        <p class="pt-5">Ready to start your next project or have questions about my services? Don't hesitate to reach out!</p>
         <div class="w-6/12 mx-auto pb-10">
           <form class="text-start" action="" method="post">
             <div class="md:flex items-center mt-12">
